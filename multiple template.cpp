@@ -1,5 +1,4 @@
 // Template with multiple parameters allows us to create a class or function that can work with multiple data types. In this code, we define a template class named Pair that can hold two different types of data specified by the template parameters T1 and T2. The class has member variables to store the first and second elements of the pair, along with getter functions to retrieve their values. In the main function, we create instances of the Pair class with different data types and display their values.
-// This code demonstrates the usage of multiple template parameters in C++. It defines a template class named Pair that can work with two different data types specified by the template parameters T1 and T2. The class has member variables to store the first and second elements of the pair, along with getter functions to retrieve their values. In the main function, we create instances of the Pair class with different data types and display their values.
 
 #include <iostream>
 using namespace std;
